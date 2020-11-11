@@ -86,3 +86,68 @@ div.midt {
 	text-align: center;
 	object-fit: none;
 }
+
+.flexbox-container {
+	display: flex;
+	justify-content: center;
+}
+
+.fleks {
+	background-color:black;
+	width: content-box;
+	margin-top: 250px;
+}
+
+.flexbox-item1 {
+	background-image: url("AMD_CEO_Lisa_Su_20130415_cropped.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	text-align: center;
+	width: 300px;
+	height: 350px;
+	margin: 10px;
+	border: 3px solid mediumseagreen;
+	background-color: mediumaquamarine;
+}
+.flexbox-item2 {
+	background-image: url("250px-Elon_Musk_Royal_Society.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	text-align: center;
+	width: 300px;
+	height: 350px;
+	margin: 10px;
+	border: 3px solid mediumseagreen;
+	background-color: mediumaquamarine;
+}
+.flexbox-item3 {
+	background-image: url("Peter_Thiel_2014_by_Heisenberg_Media.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	text-align: center;
+	width: 300px;
+	height: 350px;
+	margin: 10px;
+	border: 3px solid mediumseagreen;
+	background-color: mediumaquamarine;
+}
+.flexbox-item4 {
+	background-image: url("Elizabeth_Holmes_2014_cropped.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	text-align: center;
+	width: 300px;
+	height: 350px;
+	margin: 10px;
+	border: 3px solid mediumseagreen;
+	background-color: mediumaquamarine;
+}
+
+p span {
+	background-color: black;
+}
+
