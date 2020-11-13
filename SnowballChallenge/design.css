@@ -153,4 +153,7 @@ div.midt {
 p span {
 	background-color: black;
 }
-
+#stock{
+  width: 80%;
+  height: auto;
+}
